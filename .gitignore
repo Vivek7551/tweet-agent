@@ -420,3 +420,4 @@ FodyWeavers.xsd
 *.msm
 *.msp
 >>>>>>> 204805e58f17c5f090a1e3284ee4b5297e1feaf3
+.env
